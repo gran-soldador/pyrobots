@@ -1,0 +1,6 @@
+[submodule "pyrobots-backend"]
+	path = pyrobots-backend
+	url = git@github.com:gran-soldador/pyrobots-backend.git
+[submodule "pyrobots-frontend"]
+	path = pyrobots-frontend
+	url = git@github.com:gran-soldador/pyrobots-frontend.git
